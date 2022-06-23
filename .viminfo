@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1655933559,,"wq!"
+|2,0,1655943765,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -27,16 +27,33 @@
 # global variables:
 
 # File marks:
-'0  20  0  ~/start-ubuntu.sh
-|4,48,20,0,1655933559,"~/start-ubuntu.sh"
+'0  20  0  ~/reter/start-ubuntu.sh
+|4,48,20,0,1655943765,"~/reter/start-ubuntu.sh"
+'1  20  0  ~/start-ubuntu.sh
+|4,49,20,0,1655933559,"~/start-ubuntu.sh"
 
 # Jumplist (newest first):
+-'  20  0  ~/reter/start-ubuntu.sh
+|4,39,20,0,1655943765,"~/reter/start-ubuntu.sh"
+-'  1  0  ~/reter/start-ubuntu.sh
+|4,39,1,0,1655943744,"~/reter/start-ubuntu.sh"
+-'  20  0  ~/start-ubuntu.sh
+|4,39,20,0,1655933559,"~/start-ubuntu.sh"
 -'  20  0  ~/start-ubuntu.sh
 |4,39,20,0,1655933559,"~/start-ubuntu.sh"
 -'  1  0  ~/start-ubuntu.sh
 |4,39,1,0,1655933523,"~/start-ubuntu.sh"
+-'  1  0  ~/start-ubuntu.sh
+|4,39,1,0,1655933523,"~/start-ubuntu.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/reter/start-ubuntu.sh
+	*	1655943760	0
+	"	20	0
+	^	20	0
+	.	20	0
+	+	20	0
 
 > ~/start-ubuntu.sh
 	*	1655933551	0
